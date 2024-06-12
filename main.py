@@ -1,3 +1,5 @@
+from temperature_converter import celsius_to_fahrenheit
+from volume_convertor import liters_to_milliliters
 from area_converter import square_meters_to_square_kilometers
 
 def main():
