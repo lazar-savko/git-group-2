@@ -1,4 +1,5 @@
 from area_converter import square_meters_to_square_kilometers
+from speed_converter import mps_to_kph
 
 def main():
 
